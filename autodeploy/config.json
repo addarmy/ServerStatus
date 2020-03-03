@@ -137,14 +137,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "111",
-			"name": "111",
-			"type": "xen",
-			"host": "host1",
-			"location": "香港HKBN",
-			"password": "Leeze"
-		},
-		{
 			"username": "112",
 			"name": "112",
 			"type": "xen",
@@ -217,14 +209,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "204",
-			"name": "204",
-			"type": "xen",
-			"host": "host1",
-			"location": "台湾TFN",
-			"password": "Leeze"
-		},
-		{
 			"username": "us-dns",
 			"name": "US-DNS",
 			"type": "xen",
@@ -289,27 +273,11 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "308",
-			"name": "308",
-			"type": "xen",
-			"host": "host1",
-			"location": "美国GIA",
-			"password": "Leeze"
-		},
-		{
 			"username": "309",
 			"name": "309",
 			"type": "xen",
 			"host": "host1",
 			"location": "美国GT",
-			"password": "Leeze"
-		},
-		{
-			"username": "310",
-			"name": "310",
-			"type": "xen",
-			"host": "host1",
-			"location": "美国GIA",
 			"password": "Leeze"
 		},
 		{
@@ -358,14 +326,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "日本樱花",
-			"password": "Leeze"
-		},
-		{
-			"username": "404",
-			"name": "404",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本GMO",
 			"password": "Leeze"
 		},
 		{
