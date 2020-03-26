@@ -17,14 +17,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "aws1",
-			"name": "AWS1",
-			"type": "xen",
-			"host": "host1",
-			"location": "主站",
-			"password": "Leeze"
-		},
-		{
 			"username": "uuyun2",
 			"name": "OVH2",
 			"type": "xen",
@@ -342,6 +334,14 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "英国163",
+			"password": "Leeze"
+		},
+		{
+			"username": "521",
+			"name": "521",
+			"type": "xen",
+			"host": "host1",
+			"location": "英国隧道",
 			"password": "Leeze"
 		},
 		{
