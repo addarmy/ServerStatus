@@ -377,6 +377,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "703",
+			"name": "703",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "俄罗斯TTK",
+			"password": "Leeze"
+		},
+		{
 			"username": "710",
 			"name": "710",
 			"type": "ssss",
@@ -422,14 +430,6 @@
 			"type": "ssss",
 			"host": "ssss",
 			"location": "徐州联通",
-			"password": "Leeze"
-		},
-		{
-			"username": "915",
-			"name": "915",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "上海联通",
 			"password": "Leeze"
 		},
 		{
