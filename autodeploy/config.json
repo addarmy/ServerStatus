@@ -447,6 +447,14 @@
 			"host": "ssss",
 			"location": "河南移动",
 			"password": "Leeze"
+		},
+		{
+			"username": "921",
+			"name": "921",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "广州移动",
+			"password": "Leeze"
 		}
 	]
 }
