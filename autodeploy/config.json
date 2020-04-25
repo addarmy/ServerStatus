@@ -431,6 +431,14 @@
 			"host": "ssss",
 			"location": "广州移动",
 			"password": "Leeze"
+		},
+		{
+			"username": "922",
+			"name": "922",
+			"type": "ssss",
+			"host": "ssss",
+			"location": "杭州移动",
+			"password": "Leeze"
 		}
 	]
 }
