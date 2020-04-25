@@ -17,14 +17,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "uuyun2",
-			"name": "OVH2",
-			"type": "xen",
-			"host": "host1",
-			"location": "副站",
-			"password": "Leeze"
-		},
-		{
 			"username": "10",
 			"name": "G10",
 			"type": "xen",
@@ -142,14 +134,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "香港HGC",
-			"password": "Leeze"
-		},
-		{
-			"username": "116",
-			"name": "116",
-			"type": "xen",
-			"host": "host1",
-			"location": "香港HKT",
 			"password": "Leeze"
 		},
 		{
@@ -273,6 +257,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "jp-dns",
+			"name": "JP-DNS",
+			"type": "xen",
+			"host": "host1",
+			"location": "日本解锁",
+			"password": "Leeze"
+		},
+		{
 			"username": "400",
 			"name": "400",
 			"type": "xen",
@@ -310,14 +302,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "日本樱花",
-			"password": "Leeze"
-		},
-		{
-			"username": "407",
-			"name": "407",
-			"type": "xen",
-			"host": "host1",
-			"location": "日本GMO",
 			"password": "Leeze"
 		},
 		{
