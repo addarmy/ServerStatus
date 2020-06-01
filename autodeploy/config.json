@@ -33,14 +33,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "21",
-			"name": "G21",
-			"type": "xen",
-			"host": "host1",
-			"location": "深港",
-			"password": "Leeze"
-		},
-		{
 			"username": "101",
 			"name": "101",
 			"type": "xen",
@@ -177,24 +169,8 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "303",
-			"name": "303",
-			"type": "xen",
-			"host": "host1",
-			"location": "美国GIA",
-			"password": "Leeze"
-		},
-		{
 			"username": "304",
 			"name": "304",
-			"type": "xen",
-			"host": "host1",
-			"location": "美国GIA",
-			"password": "Leeze"
-		},
-		{
-			"username": "305",
-			"name": "305",
 			"type": "xen",
 			"host": "host1",
 			"location": "美国GIA",
@@ -318,14 +294,6 @@
 			"type": "xen",
 			"host": "host1",
 			"location": "韩国Aws",
-			"password": "Leeze"
-		},
-		{
-			"username": "520",
-			"name": "520",
-			"type": "xen",
-			"host": "host1",
-			"location": "英国163",
 			"password": "Leeze"
 		},
 		{
