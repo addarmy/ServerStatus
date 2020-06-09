@@ -145,6 +145,14 @@
 			"password": "Leeze"
 		},
 		{
+			"username": "201",
+			"name": "201",
+			"type": "xen",
+			"host": "host1",
+			"location": "台湾Hinet",
+			"password": "Leeze"
+		},
+		{
 			"username": "us-dns",
 			"name": "US-DNS",
 			"type": "xen",
