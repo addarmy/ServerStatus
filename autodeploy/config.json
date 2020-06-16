@@ -225,14 +225,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "313",
-			"name": "313",
-			"type": "xen",
-			"host": "host1",
-			"location": "美国CN2",
-			"password": "Leeze"
-		},
-		{
 			"username": "315",
 			"name": "315",
 			"type": "xen",
@@ -337,14 +329,6 @@
 			"password": "Leeze"
 		},
 		{
-			"username": "702",
-			"name": "702",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "俄罗斯163",
-			"password": "Leeze"
-		},
-		{
 			"username": "703",
 			"name": "703",
 			"type": "ssss",
@@ -374,14 +358,6 @@
 			"type": "ssss",
 			"host": "ssss",
 			"location": "上海CN2",
-			"password": "Leeze"
-		},
-		{
-			"username": "910",
-			"name": "910",
-			"type": "ssss",
-			"host": "ssss",
-			"location": "河南联通",
 			"password": "Leeze"
 		},
 		{
